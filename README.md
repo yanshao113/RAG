@@ -6,4 +6,7 @@ This project enables semantic search over educational content including lectures
 *  querying with natural language.
 
 ## Q1: Find homeworks that are related to Optimization in IAM
-![1](/running examples/1.png)
+![1](/examples/1.png)
+
+## Q2: Which model can explain the development of computer network
+![2](/examples/2.png)
